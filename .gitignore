@@ -1,0 +1,4 @@
+build/Debug/
+*.opensdf
+*.adf
+*.v12.suo
